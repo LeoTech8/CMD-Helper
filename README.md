@@ -1,2 +1,2 @@
 # CMD-Helper
-A program that has menus, helping new people find cool CMD commands
+This program is full of useful commands, and menus to help you get to them
